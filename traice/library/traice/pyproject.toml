@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "traice"
+authors = [
+    {name = "Thierry Bedard-Cortey",      email = "thierry.bedard-cortey@polymtl.ca"     },
+    {name = "Mathéo Benoît-Paraschivoiu", email = "matheo.benoit-paraschivoiu@polymtl.ca"},
+    {name = "Rachad Chazbek",             email = "rachad.chazbek@polymtl.ca"            },
+    {name = "Achille Saint-Hillier",      email = "achille.saint-hillier@polymtl.ca"     },
+    {name = "Ahmed Sidi Ould Ahmedou",    email = "ahmed.sidi-ould-ahmedou@polymtl.ca"   },
+    {name = "Jean Siffert",               email = "jean.siffert@polymtl.ca"              }
+]
+description="Tracking real-time AI carbon emissions."
+keywords = ["machine learning", "carbon", "CO2", "artificial intelligence", "tracking", "ecology", "green computing"]
+classifiers = [
+    "Intended Audience :: Developers"
+]
+version = "0.0.1"
+requires-python = ">=3.8"
+dependencies = [
+    "python-socketio==5.11.0",
+    "codecarbon==2.3.2"
+]
+
+[tool.setuptools.packages.find]
+include = ["traice*"]
+exclude = ["tests*", "tests.sh"]

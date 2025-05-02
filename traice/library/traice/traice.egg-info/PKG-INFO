@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: traice
+Version: 0.0.1
+Summary: Tracking real-time AI carbon emissions.
+Author-email: Thierry Bedard-Cortey <thierry.bedard-cortey@polymtl.ca>, Mathéo Benoît-Paraschivoiu <matheo.benoit-paraschivoiu@polymtl.ca>, Rachad Chazbek <rachad.chazbek@polymtl.ca>, Achille Saint-Hillier <achille.saint-hillier@polymtl.ca>, Ahmed Sidi Ould Ahmedou <ahmed.sidi-ould-ahmedou@polymtl.ca>, Jean Siffert <jean.siffert@polymtl.ca>
+Keywords: machine learning,carbon,CO2,artificial intelligence,tracking,ecology,green computing
+Classifier: Intended Audience :: Developers
+Requires-Python: >=3.8
+Requires-Dist: python-socketio==5.11.0
+Requires-Dist: codecarbon==2.3.2
