@@ -1,0 +1,268 @@
+[4] - [2024-03-13T23:17:58.677Z] - Database connection error
+[4] - [2024-03-13T23:19:00.432Z] - Database connection error
+[2] - [2024-03-13T23:23:52.476Z] - Created training 8bdbf703-5bf5-4ff5-bdba-9e447e689f43.
+[2] - [2024-03-13T23:23:52.477Z] - Created worker 0dcaeb6f-8af8-43d5-bf6c-d814f0673e98.
+[2] - [2024-03-13T23:23:52.477Z] - Added worker 0dcaeb6f-8af8-43d5-bf6c-d814f0673e98 to training 8bdbf703-5bf5-4ff5-bdba-9e447e689f43.
+[2] - [2024-03-13T23:23:52.481Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[2] - [2024-03-13T23:23:53.483Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[2] - [2024-03-13T23:23:54.496Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[2] - [2024-03-13T23:23:55.496Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #3 to clients.
+[2] - [2024-03-13T23:23:56.498Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #4 to clients.
+[2] - [2024-03-13T23:23:57.512Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #5 to clients.
+[2] - [2024-03-13T23:23:58.517Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #6 to clients.
+[2] - [2024-03-13T23:23:59.520Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #7 to clients.
+[2] - [2024-03-13T23:24:00.522Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #8 to clients.
+[2] - [2024-03-13T23:24:01.533Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #9 to clients.
+[2] - [2024-03-13T23:24:02.537Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #10 to clients.
+[2] - [2024-03-13T23:24:03.541Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #11 to clients.
+[2] - [2024-03-13T23:24:04.545Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #12 to clients.
+[4] - [2024-03-13T23:24:04.564Z] - Database connection error
+[2] - [2024-03-13T23:26:56.075Z] - Connected to database on mongodb://localhost:27017.
+[2] - [2024-03-13T23:27:20.448Z] - Created training bd542bd4-45c5-4ffb-b455-0c4fe3d401fd.
+[2] - [2024-03-13T23:27:20.449Z] - Created worker 55a67233-86ed-431c-aa5e-6564f2ad1145.
+[2] - [2024-03-13T23:27:20.449Z] - Added worker 55a67233-86ed-431c-aa5e-6564f2ad1145 to training bd542bd4-45c5-4ffb-b455-0c4fe3d401fd.
+[2] - [2024-03-13T23:27:20.451Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[2] - [2024-03-13T23:27:21.464Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[2] - [2024-03-13T23:27:22.469Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[2] - [2024-03-13T23:27:22.629Z] - Client connection to training bd542bd4-45c5-4ffb-b455-0c4fe3d401fd.
+[2] - [2024-03-13T23:27:22.632Z] - Client connection to training bd542bd4-45c5-4ffb-b455-0c4fe3d401fd.
+[2] - [2024-03-13T23:27:23.471Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #3 to clients.
+[2] - [2024-03-13T23:27:24.483Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #4 to clients.
+[2] - [2024-03-13T23:27:25.479Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #5 to clients.
+[2] - [2024-03-13T23:27:26.483Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #6 to clients.
+[2] - [2024-03-13T23:27:27.500Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #7 to clients.
+[2] - [2024-03-13T23:27:28.505Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #8 to clients.
+[2] - [2024-03-13T23:27:29.510Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #9 to clients.
+[2] - [2024-03-13T23:27:30.517Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #10 to clients.
+[2] - [2024-03-13T23:27:31.524Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #11 to clients.
+[2] - [2024-03-13T23:27:32.529Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #12 to clients.
+[2] - [2024-03-13T23:27:33.528Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #13 to clients.
+[2] - [2024-03-13T23:27:34.546Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #14 to clients.
+[2] - [2024-03-13T23:27:35.545Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #15 to clients.
+[2] - [2024-03-13T23:27:36.552Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #16 to clients.
+[2] - [2024-03-13T23:27:37.552Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #17 to clients.
+[2] - [2024-03-13T23:27:38.558Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #18 to clients.
+[2] - [2024-03-13T23:27:39.564Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #19 to clients.
+[2] - [2024-03-13T23:27:40.582Z] - End of worker 55a67233-86ed-431c-aa5e-6564f2ad1145 in training bd542bd4-45c5-4ffb-b455-0c4fe3d401fd.
+[2] - [2024-03-13T23:27:40.600Z] - Added training bd542bd4-45c5-4ffb-b455-0c4fe3d401fd to database.
+[2] - [2024-03-13T23:27:59.952Z] - Client connection to training bd542bd4-45c5-4ffb-b455-0c4fe3d401fd.
+[2] - [2024-03-13T23:27:59.957Z] - Client connection to training bd542bd4-45c5-4ffb-b455-0c4fe3d401fd.
+[2] - [2024-03-13T23:28:40.411Z] - Created training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:28:40.412Z] - Created worker 3c15463b-c5fa-49b2-958a-c4bf904fae8d.
+[2] - [2024-03-13T23:28:40.414Z] - Added worker 3c15463b-c5fa-49b2-958a-c4bf904fae8d to training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:28:40.421Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[2] - [2024-03-13T23:28:41.416Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[2] - [2024-03-13T23:28:42.428Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[2] - [2024-03-13T23:28:43.431Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #3 to clients.
+[2] - [2024-03-13T23:28:44.435Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #4 to clients.
+[2] - [2024-03-13T23:28:44.875Z] - Client connection to training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:28:44.879Z] - Client connection to training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:28:45.439Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #5 to clients.
+[2] - [2024-03-13T23:28:46.443Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #6 to clients.
+[2] - [2024-03-13T23:28:47.451Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #7 to clients.
+[2] - [2024-03-13T23:28:48.460Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #8 to clients.
+[2] - [2024-03-13T23:28:49.481Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #9 to clients.
+[2] - [2024-03-13T23:28:50.468Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #10 to clients.
+[2] - [2024-03-13T23:28:51.471Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #11 to clients.
+[2] - [2024-03-13T23:28:52.476Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #12 to clients.
+[2] - [2024-03-13T23:28:53.477Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #13 to clients.
+[2] - [2024-03-13T23:28:54.482Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #14 to clients.
+[2] - [2024-03-13T23:28:55.480Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #15 to clients.
+[2] - [2024-03-13T23:28:56.485Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #16 to clients.
+[2] - [2024-03-13T23:28:57.498Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #17 to clients.
+[2] - [2024-03-13T23:28:58.504Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #18 to clients.
+[2] - [2024-03-13T23:28:59.503Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #19 to clients.
+[2] - [2024-03-13T23:29:00.512Z] - End of worker 3c15463b-c5fa-49b2-958a-c4bf904fae8d in training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:29:00.539Z] - Added training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e to database.
+[2] - [2024-03-13T23:29:07.855Z] - Client connection to training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:29:07.857Z] - Client connection to training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:32:16.645Z] - Client connection to training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:32:23.623Z] - Client connection to training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:32:23.625Z] - Client connection to training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:32:47.428Z] - Created training 54fd1b07-e863-4dd8-98fb-384f62dc14e7.
+[2] - [2024-03-13T23:32:47.429Z] - Created worker b912df0a-9881-4e21-b4be-b13e3eac87d2.
+[2] - [2024-03-13T23:32:47.429Z] - Added worker b912df0a-9881-4e21-b4be-b13e3eac87d2 to training 54fd1b07-e863-4dd8-98fb-384f62dc14e7.
+[2] - [2024-03-13T23:32:47.434Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[2] - [2024-03-13T23:32:48.446Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[2] - [2024-03-13T23:32:48.541Z] - Client connection to training 54fd1b07-e863-4dd8-98fb-384f62dc14e7.
+[2] - [2024-03-13T23:32:48.542Z] - Client connection to training 54fd1b07-e863-4dd8-98fb-384f62dc14e7.
+[2] - [2024-03-13T23:32:49.445Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[2] - [2024-03-13T23:32:50.459Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #3 to clients.
+[2] - [2024-03-13T23:32:51.457Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #4 to clients.
+[2] - [2024-03-13T23:32:52.463Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #5 to clients.
+[2] - [2024-03-13T23:32:53.471Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #6 to clients.
+[2] - [2024-03-13T23:32:54.476Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #7 to clients.
+[2] - [2024-03-13T23:32:55.482Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #8 to clients.
+[2] - [2024-03-13T23:32:56.490Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #9 to clients.
+[2] - [2024-03-13T23:32:57.498Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #10 to clients.
+[2] - [2024-03-13T23:32:58.504Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #11 to clients.
+[2] - [2024-03-13T23:32:59.516Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #12 to clients.
+[2] - [2024-03-13T23:33:00.514Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #13 to clients.
+[2] - [2024-03-13T23:33:01.520Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #14 to clients.
+[2] - [2024-03-13T23:33:02.526Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #15 to clients.
+[2] - [2024-03-13T23:33:03.531Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #16 to clients.
+[2] - [2024-03-13T23:33:04.542Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #17 to clients.
+[2] - [2024-03-13T23:33:05.548Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #18 to clients.
+[2] - [2024-03-13T23:33:06.548Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #19 to clients.
+[2] - [2024-03-13T23:33:07.556Z] - End of worker b912df0a-9881-4e21-b4be-b13e3eac87d2 in training 54fd1b07-e863-4dd8-98fb-384f62dc14e7.
+[2] - [2024-03-13T23:33:07.568Z] - Added training 54fd1b07-e863-4dd8-98fb-384f62dc14e7 to database.
+[2] - [2024-03-13T23:35:16.459Z] - Created training a675df0d-ca30-4da8-9589-8a1d7c842b1e.
+[2] - [2024-03-13T23:35:16.463Z] - Created worker aa42c60f-ae01-4b06-b80e-895529dc8bde.
+[2] - [2024-03-13T23:35:16.463Z] - Added worker aa42c60f-ae01-4b06-b80e-895529dc8bde to training a675df0d-ca30-4da8-9589-8a1d7c842b1e.
+[2] - [2024-03-13T23:35:16.466Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[2] - [2024-03-13T23:35:17.468Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[2] - [2024-03-13T23:35:17.760Z] - Client connection to training a675df0d-ca30-4da8-9589-8a1d7c842b1e.
+[2] - [2024-03-13T23:35:17.764Z] - Client connection to training a675df0d-ca30-4da8-9589-8a1d7c842b1e.
+[2] - [2024-03-13T23:35:18.465Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[2] - [2024-03-13T23:35:19.488Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #3 to clients.
+[2] - [2024-03-13T23:35:20.484Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #4 to clients.
+[2] - [2024-03-13T23:35:21.488Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #5 to clients.
+[2] - [2024-03-13T23:35:22.497Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #6 to clients.
+[2] - [2024-03-13T23:35:23.498Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #7 to clients.
+[2] - [2024-03-13T23:35:24.507Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #8 to clients.
+[2] - [2024-03-13T23:35:25.518Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #9 to clients.
+[2] - [2024-03-13T23:35:26.520Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #10 to clients.
+[2] - [2024-03-13T23:35:27.523Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #11 to clients.
+[2] - [2024-03-13T23:35:28.528Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #12 to clients.
+[2] - [2024-03-13T23:35:29.538Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #13 to clients.
+[2] - [2024-03-13T23:35:29.596Z] - Client connection to training a675df0d-ca30-4da8-9589-8a1d7c842b1e.
+[2] - [2024-03-13T23:35:29.597Z] - Client connection to training a675df0d-ca30-4da8-9589-8a1d7c842b1e.
+[2] - [2024-03-13T23:35:30.536Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #14 to clients.
+[2] - [2024-03-13T23:35:31.538Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #15 to clients.
+[2] - [2024-03-13T23:35:32.542Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #16 to clients.
+[2] - [2024-03-13T23:35:33.545Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #17 to clients.
+[2] - [2024-03-13T23:35:34.551Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #18 to clients.
+[2] - [2024-03-13T23:35:35.554Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #19 to clients.
+[2] - [2024-03-13T23:35:36.554Z] - End of worker aa42c60f-ae01-4b06-b80e-895529dc8bde in training a675df0d-ca30-4da8-9589-8a1d7c842b1e.
+[2] - [2024-03-13T23:35:36.569Z] - Added training a675df0d-ca30-4da8-9589-8a1d7c842b1e to database.
+[2] - [2024-03-13T23:37:47.615Z] - Client connection to training a675df0d-ca30-4da8-9589-8a1d7c842b1e.
+[2] - [2024-03-13T23:38:03.135Z] - Created training 0d39db2f-b899-4316-81e8-d63aa70d95b8.
+[2] - [2024-03-13T23:38:03.137Z] - Created worker 5877bbfe-796c-4a0d-aa2e-2d937e262635.
+[2] - [2024-03-13T23:38:03.140Z] - Added worker 5877bbfe-796c-4a0d-aa2e-2d937e262635 to training 0d39db2f-b899-4316-81e8-d63aa70d95b8.
+[2] - [2024-03-13T23:38:03.145Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[2] - [2024-03-13T23:38:04.156Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[2] - [2024-03-13T23:38:04.574Z] - Client connection to training 0d39db2f-b899-4316-81e8-d63aa70d95b8.
+[2] - [2024-03-13T23:38:04.576Z] - Client connection to training 0d39db2f-b899-4316-81e8-d63aa70d95b8.
+[2] - [2024-03-13T23:38:05.173Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[2] - [2024-03-13T23:38:06.161Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #3 to clients.
+[2] - [2024-03-13T23:38:07.173Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #4 to clients.
+[2] - [2024-03-13T23:38:08.163Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #5 to clients.
+[2] - [2024-03-13T23:38:09.170Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #6 to clients.
+[2] - [2024-03-13T23:38:10.177Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #7 to clients.
+[2] - [2024-03-13T23:38:11.186Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #8 to clients.
+[2] - [2024-03-13T23:38:12.191Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #9 to clients.
+[2] - [2024-03-13T23:38:13.201Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #10 to clients.
+[2] - [2024-03-13T23:38:14.197Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #11 to clients.
+[2] - [2024-03-13T23:38:15.198Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #12 to clients.
+[2] - [2024-03-13T23:38:16.208Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #13 to clients.
+[2] - [2024-03-13T23:38:17.208Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #14 to clients.
+[2] - [2024-03-13T23:38:18.212Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #15 to clients.
+[2] - [2024-03-13T23:38:19.220Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #16 to clients.
+[2] - [2024-03-13T23:38:20.231Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #17 to clients.
+[2] - [2024-03-13T23:38:21.231Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #18 to clients.
+[2] - [2024-03-13T23:38:22.236Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #19 to clients.
+[2] - [2024-03-13T23:38:23.246Z] - End of worker 5877bbfe-796c-4a0d-aa2e-2d937e262635 in training 0d39db2f-b899-4316-81e8-d63aa70d95b8.
+[2] - [2024-03-13T23:38:23.251Z] - Added training 0d39db2f-b899-4316-81e8-d63aa70d95b8 to database.
+[2] - [2024-03-13T23:38:48.827Z] - Client connection to training 0d39db2f-b899-4316-81e8-d63aa70d95b8.
+[2] - [2024-03-13T23:38:56.218Z] - Created training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:38:56.218Z] - Created worker 2f3c6766-e760-4729-80fc-40001db5160a.
+[2] - [2024-03-13T23:38:56.219Z] - Added worker 2f3c6766-e760-4729-80fc-40001db5160a to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:38:56.222Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[2] - [2024-03-13T23:38:57.226Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[2] - [2024-03-13T23:38:58.001Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:38:58.008Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:38:58.230Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[2] - [2024-03-13T23:38:59.237Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #3 to clients.
+[2] - [2024-03-13T23:39:00.246Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #4 to clients.
+[2] - [2024-03-13T23:39:01.243Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #5 to clients.
+[2] - [2024-03-13T23:39:02.257Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #6 to clients.
+[2] - [2024-03-13T23:39:03.267Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #7 to clients.
+[2] - [2024-03-13T23:39:04.263Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #8 to clients.
+[2] - [2024-03-13T23:39:05.268Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #9 to clients.
+[2] - [2024-03-13T23:39:06.272Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #10 to clients.
+[2] - [2024-03-13T23:39:07.280Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #11 to clients.
+[2] - [2024-03-13T23:39:08.282Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #12 to clients.
+[2] - [2024-03-13T23:39:09.289Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #13 to clients.
+[2] - [2024-03-13T23:39:10.309Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #14 to clients.
+[2] - [2024-03-13T23:39:10.819Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:39:10.822Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:39:11.305Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #15 to clients.
+[2] - [2024-03-13T23:39:12.313Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #16 to clients.
+[2] - [2024-03-13T23:39:13.314Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #17 to clients.
+[2] - [2024-03-13T23:39:14.317Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #18 to clients.
+[2] - [2024-03-13T23:39:15.322Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #19 to clients.
+[2] - [2024-03-13T23:39:16.329Z] - End of worker 2f3c6766-e760-4729-80fc-40001db5160a in training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:39:16.338Z] - Added training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e to database.
+[2] - [2024-03-13T23:41:03.256Z] - Created training 38eeed2b-31b9-4120-ba8f-9c220331f349.
+[2] - [2024-03-13T23:41:03.256Z] - Created worker 6770ed08-9870-4999-94db-cfba544a1d3a.
+[2] - [2024-03-13T23:41:03.256Z] - Added worker 6770ed08-9870-4999-94db-cfba544a1d3a to training 38eeed2b-31b9-4120-ba8f-9c220331f349.
+[2] - [2024-03-13T23:41:03.262Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[2] - [2024-03-13T23:41:04.269Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[2] - [2024-03-13T23:41:04.589Z] - Client connection to training 38eeed2b-31b9-4120-ba8f-9c220331f349.
+[2] - [2024-03-13T23:41:04.592Z] - Client connection to training 38eeed2b-31b9-4120-ba8f-9c220331f349.
+[2] - [2024-03-13T23:41:05.273Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[2] - [2024-03-13T23:41:06.276Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #3 to clients.
+[2] - [2024-03-13T23:41:07.282Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #4 to clients.
+[2] - [2024-03-13T23:41:08.294Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #5 to clients.
+[2] - [2024-03-13T23:41:09.303Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #6 to clients.
+[2] - [2024-03-13T23:41:10.304Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #7 to clients.
+[2] - [2024-03-13T23:41:11.318Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #8 to clients.
+[2] - [2024-03-13T23:41:12.312Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #9 to clients.
+[2] - [2024-03-13T23:41:13.319Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #10 to clients.
+[2] - [2024-03-13T23:41:14.330Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #11 to clients.
+[2] - [2024-03-13T23:41:14.502Z] - Client connection to training 38eeed2b-31b9-4120-ba8f-9c220331f349.
+[2] - [2024-03-13T23:41:14.503Z] - Client connection to training 38eeed2b-31b9-4120-ba8f-9c220331f349.
+[2] - [2024-03-13T23:41:15.330Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #12 to clients.
+[2] - [2024-03-13T23:41:16.331Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #13 to clients.
+[2] - [2024-03-13T23:41:17.344Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #14 to clients.
+[2] - [2024-03-13T23:41:18.352Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #15 to clients.
+[2] - [2024-03-13T23:41:19.358Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #16 to clients.
+[2] - [2024-03-13T23:41:20.362Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #17 to clients.
+[2] - [2024-03-13T23:41:21.364Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #18 to clients.
+[2] - [2024-03-13T23:41:22.377Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #19 to clients.
+[2] - [2024-03-13T23:41:23.381Z] - End of worker 6770ed08-9870-4999-94db-cfba544a1d3a in training 38eeed2b-31b9-4120-ba8f-9c220331f349.
+[2] - [2024-03-13T23:41:23.386Z] - Added training 38eeed2b-31b9-4120-ba8f-9c220331f349 to database.
+[2] - [2024-03-13T23:42:57.247Z] - Client connection to training 38eeed2b-31b9-4120-ba8f-9c220331f349.
+[2] - [2024-03-13T23:42:57.249Z] - Client connection to training 38eeed2b-31b9-4120-ba8f-9c220331f349.
+[2] - [2024-03-13T23:45:42.063Z] - Client connection to training 38eeed2b-31b9-4120-ba8f-9c220331f349.
+[2] - [2024-03-13T23:45:45.772Z] - Created training b1bb728c-8835-4c8f-a39e-e0acc0f8f971.
+[2] - [2024-03-13T23:45:45.773Z] - Created worker afe73451-1848-4f5d-b560-9f80f46329b1.
+[2] - [2024-03-13T23:45:45.773Z] - Added worker afe73451-1848-4f5d-b560-9f80f46329b1 to training b1bb728c-8835-4c8f-a39e-e0acc0f8f971.
+[2] - [2024-03-13T23:45:45.780Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[2] - [2024-03-13T23:45:46.784Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[2] - [2024-03-13T23:45:47.792Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[2] - [2024-03-13T23:45:48.794Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #3 to clients.
+[2] - [2024-03-13T23:45:49.804Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #4 to clients.
+[2] - [2024-03-13T23:45:50.777Z] - Client connection to training b1bb728c-8835-4c8f-a39e-e0acc0f8f971.
+[2] - [2024-03-13T23:45:50.781Z] - Client connection to training b1bb728c-8835-4c8f-a39e-e0acc0f8f971.
+[2] - [2024-03-13T23:45:50.809Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #5 to clients.
+[2] - [2024-03-13T23:45:51.816Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #6 to clients.
+[2] - [2024-03-13T23:45:52.829Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #7 to clients.
+[2] - [2024-03-13T23:45:53.836Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #8 to clients.
+[2] - [2024-03-13T23:45:54.841Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #9 to clients.
+[2] - [2024-03-13T23:45:55.846Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #10 to clients.
+[2] - [2024-03-13T23:45:56.841Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #11 to clients.
+[2] - [2024-03-13T23:45:57.851Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #12 to clients.
+[2] - [2024-03-13T23:45:58.860Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #13 to clients.
+[2] - [2024-03-13T23:45:59.867Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #14 to clients.
+[2] - [2024-03-13T23:46:00.865Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #15 to clients.
+[2] - [2024-03-13T23:46:01.876Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #16 to clients.
+[2] - [2024-03-13T23:46:02.878Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #17 to clients.
+[2] - [2024-03-13T23:46:03.896Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #18 to clients.
+[2] - [2024-03-13T23:46:04.899Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #19 to clients.
+[2] - [2024-03-13T23:46:05.902Z] - End of worker afe73451-1848-4f5d-b560-9f80f46329b1 in training b1bb728c-8835-4c8f-a39e-e0acc0f8f971.
+[2] - [2024-03-13T23:46:05.916Z] - Added training b1bb728c-8835-4c8f-a39e-e0acc0f8f971 to database.
+[2] - [2024-03-13T23:47:00.052Z] - Client connection to training b1bb728c-8835-4c8f-a39e-e0acc0f8f971.
+[2] - [2024-03-13T23:47:12.468Z] - Client connection to training b1bb728c-8835-4c8f-a39e-e0acc0f8f971.
+[2] - [2024-03-13T23:47:17.658Z] - Client connection to training a4f2107b-313b-4659-9b6c-b595724ac65a.
+[2] - [2024-03-13T23:47:17.660Z] - Client connection to training a4f2107b-313b-4659-9b6c-b595724ac65a.
+[2] - [2024-03-13T23:47:20.176Z] - Client connection to training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:47:20.179Z] - Client connection to training 36cbe47a-9582-4bbe-9735-4f78ee7ab27e.
+[2] - [2024-03-13T23:47:22.250Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:47:22.252Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:48:29.970Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:48:32.980Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:48:38.964Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:48:45.991Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:49:26.016Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.
+[2] - [2024-03-13T23:56:08.739Z] - Client connection to training 6d5c9c08-dc9f-489d-a060-d1c9e8484a3e.

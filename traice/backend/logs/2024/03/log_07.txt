@@ -1,0 +1,13 @@
+[info] - [2024-03-07T21:56:13.924Z] - Connected to database on mongodb://localhost:27017
+[info] - [2024-03-07T21:56:55.062Z] - Created training 850d307c-702e-45a5-bd53-419c35670a92.
+[info] - [2024-03-07T21:56:55.065Z] - Created worker 48684f64-1400-4b65-99c8-1bd40e5b2a7a.
+[info] - [2024-03-07T21:56:55.066Z] - Added worker 48684f64-1400-4b65-99c8-1bd40e5b2a7a to training 850d307c-702e-45a5-bd53-419c35670a92.
+[info] - [2024-03-07T21:56:55.068Z] - Created worker 32f6c5f5-6ae8-4713-b696-15d11d55ad10.
+[info] - [2024-03-07T21:56:55.068Z] - Added worker 32f6c5f5-6ae8-4713-b696-15d11d55ad10 to training 850d307c-702e-45a5-bd53-419c35670a92.
+[info] - [2024-03-07T21:57:05.153Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[info] - [2024-03-07T21:57:14.747Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[info] - [2024-03-07T21:57:25.046Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[info] - [2024-03-07T21:57:25.125Z] - End of worker 48684f64-1400-4b65-99c8-1bd40e5b2a7a in training 850d307c-702e-45a5-bd53-419c35670a92.
+[info] - [2024-03-07T21:57:25.140Z] - End of worker 32f6c5f5-6ae8-4713-b696-15d11d55ad10 in training 850d307c-702e-45a5-bd53-419c35670a92.
+[info] - [2024-03-07T21:57:25.200Z] - Added training 850d307c-702e-45a5-bd53-419c35670a92 to database.
+[info] - [2024-03-07T22:06:46.753Z] - Connected to database on mongodb://localhost:27017.

@@ -1,0 +1,99 @@
+[2] - [2024-03-11T19:11:53.555Z] - Created training 2ef14630-b7fe-49cb-9493-e9b944990e43.
+[2] - [2024-03-11T19:11:53.555Z] - Created worker 67a0755c-f01b-48da-884f-60515296d6d8.
+[2] - [2024-03-11T19:11:53.556Z] - Added worker 67a0755c-f01b-48da-884f-60515296d6d8 to training 2ef14630-b7fe-49cb-9493-e9b944990e43.
+[2] - [2024-03-11T19:11:53.563Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #0 to clients.
+[2] - [2024-03-11T19:11:54.552Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #1 to clients.
+[2] - [2024-03-11T19:11:55.557Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #2 to clients.
+[2] - [2024-03-11T19:11:56.569Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #3 to clients.
+[2] - [2024-03-11T19:11:56.781Z] - Client connection to training 2ef14630-b7fe-49cb-9493-e9b944990e43.
+[2] - [2024-03-11T19:11:56.783Z] - Client connection to training 2ef14630-b7fe-49cb-9493-e9b944990e43.
+[2] - [2024-03-11T19:11:57.578Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #4 to clients.
+[2] - [2024-03-11T19:11:58.578Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #5 to clients.
+[2] - [2024-03-11T19:11:59.591Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #6 to clients.
+[2] - [2024-03-11T19:12:00.596Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #7 to clients.
+[2] - [2024-03-11T19:12:01.602Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #8 to clients.
+[2] - [2024-03-11T19:12:02.606Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #9 to clients.
+[2] - [2024-03-11T19:12:03.612Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #10 to clients.
+[2] - [2024-03-11T19:12:04.617Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #11 to clients.
+[2] - [2024-03-11T19:12:05.629Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #12 to clients.
+[2] - [2024-03-11T19:12:06.623Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #13 to clients.
+[2] - [2024-03-11T19:12:07.638Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #14 to clients.
+[2] - [2024-03-11T19:12:08.642Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #15 to clients.
+[2] - [2024-03-11T19:12:09.639Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #16 to clients.
+[2] - [2024-03-11T19:12:10.641Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #17 to clients.
+[2] - [2024-03-11T19:12:11.656Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #18 to clients.
+[2] - [2024-03-11T19:12:12.651Z] - Emitted event CLIENT_EPOCH_UPDATE with epoch #19 to clients.
+[2] - [2024-03-11T19:12:13.663Z] - End of worker 67a0755c-f01b-48da-884f-60515296d6d8 in training 2ef14630-b7fe-49cb-9493-e9b944990e43.
+[2] - [2024-03-11T19:12:13.670Z] - Added training 2ef14630-b7fe-49cb-9493-e9b944990e43 to database.
+[2] - [2024-03-11T20:21:17.298Z] - Client connection to training 2ef14630-b7fe-49cb-9493-e9b944990e43.
+[2] - [2024-03-11T21:13:44.893Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:13:44.902Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:28:54.495Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:28:54.498Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:28:56.868Z] - Client connection to training f2da3e88-2fad-4aa2-859a-a34a26030a76.
+[2] - [2024-03-11T21:28:56.870Z] - Client connection to training f2da3e88-2fad-4aa2-859a-a34a26030a76.
+[2] - [2024-03-11T21:28:59.283Z] - Client connection to training 373dd409-82a6-4e9e-8de2-ca83fb146c77.
+[2] - [2024-03-11T21:28:59.284Z] - Client connection to training 373dd409-82a6-4e9e-8de2-ca83fb146c77.
+[2] - [2024-03-11T21:29:01.608Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:29:01.608Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:29:03.424Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:29:03.425Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:29:05.624Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:29:05.625Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:37:07.581Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:37:07.584Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:37:55.890Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:46:21.372Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:47:59.037Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:48:17.959Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:52:40.672Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:55:01.335Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:58:26.645Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:59:19.582Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T21:59:55.450Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:03:23.364Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:05:14.409Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:08:19.673Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:11:17.633Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:11:30.033Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:13:20.999Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:15:14.399Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:15:51.644Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:16:09.807Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:16:09.811Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:16:42.762Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:16:42.765Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:18:03.727Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:18:19.393Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:18:28.630Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:18:28.632Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:19:43.279Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:20:10.037Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:20:54.780Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:22:31.728Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:23:13.650Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:24:19.187Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:24:46.006Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:25:37.779Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:26:49.342Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:28:38.572Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:29:54.651Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:30:07.469Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:33:59.175Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:34:25.982Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T22:37:31.937Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:46:27.466Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:47:43.901Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:48:59.124Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:49:43.644Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:50:14.538Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:51:46.459Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:52:28.647Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:53:07.018Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:53:50.544Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:55:07.201Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:55:25.142Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-11T23:56:16.494Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-12T00:02:53.415Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-12T00:05:54.886Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
+[2] - [2024-03-12T00:37:33.400Z] - Client connection to training 5807eade-cfdc-4f9f-adf3-966e6ecda0b5.
