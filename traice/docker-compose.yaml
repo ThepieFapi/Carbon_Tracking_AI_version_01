@@ -1,0 +1,64 @@
+version: '3'
+
+x-app: &default-app
+    env_file:
+        - '.env'
+    restart: '${DOCKER_RESTART_POLICY:-unless-stopped}'
+    stop_grace_period: '3s'
+    tty: true
+    healthcheck:
+        interval: '60s'
+        timeout: '3s'
+        start_period: '5s'
+        retries: 3
+
+x-project:
+    name: traice_dev
+
+services:
+    database:
+        <<: *default-app
+        container_name: traice-database-container
+        image: traice-database-image
+        build:
+            context: ./database
+            dockerfile: ./Dockerfile.deployment
+        ports:
+            - '${DOCKER_DB_PORT_FORWARD}:${DB_PORT}'
+        networks:
+            - traice-internal-network
+
+    backend:
+        <<: *default-app
+        container_name: traice-backend-container
+        image: traice-backend-image
+        build:
+            context: ./
+            dockerfile: ./backend/Dockerfile
+            target: ${NODE_ENV}
+            args:
+                - 'NODE_ENV=${NODE_ENV}'
+        ports:
+            - '${DOCKER_SERVER_PORT_FORWARD}:${SERVER_PORT}'
+        depends_on:
+            - database
+        networks:
+            - traice-internal-network
+
+    frontend:
+        <<: *default-app
+        container_name: traice-frontend-container
+        image: traice-frontend-image
+        build:
+            context: ./
+            dockerfile: ./frontend/Dockerfile
+            args:
+                - 'NODE_ENV=${NODE_ENV}'
+        ports:
+            - '${DOCKER_CLIENT_PORT_FORWARD}:${CLIENT_PORT}'
+        networks:
+            - traice-internal-network
+
+networks:
+    traice-internal-network:
+        driver: bridge
