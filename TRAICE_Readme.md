@@ -98,7 +98,7 @@ converges or the model converges, or a time limit is exceeded, or the
 maximum number of iterations is reached.
 
 ![A diagram of a model Description automatically
-generated](TRAICE_Figures/media/image1.png){width="4.069444444444445in"
+generated](image1.png){width="4.069444444444445in"
 height="3.339420384951881in"}
 
 Figure 1: Typical Federated Learning Architecture with three workers A,
@@ -138,7 +138,7 @@ bidirectional communication between the workers and the servers, as well
 as between the server and client.
 
 ![A diagram of a workflow Description automatically
-generated](TRAICE_Figures/media/image2.png){width="6.5in"
+generated](image2.png){width="6.5in"
 height="3.7777777777777777in"}
 
 Figure 2: TRAICE Architecture Overview
@@ -182,7 +182,7 @@ a separated Docker container, see Figure 3 below.
 3)  TRAICE-database: Used for storing training data, as SQL database.
 
 ![A diagram of a docker Description automatically
-generated](TRAICE_Figures/media/image3.png){width="5.0576935695538054in"
+generated](image3.png){width="5.0576935695538054in"
 height="3.3717957130358704in"}
 
 Figure 3: TRAICE Deployment Diagram
